@@ -1,0 +1,49 @@
+.title {
+  margin-left: 400px;
+  color: darkblue;
+}
+
+.toolbar {
+  background-color: #faebd6;
+  overflow: hidden;
+  padding: 14px 14px 14px 80px;
+}
+
+.toolbar a {
+  padding: 4px 30px 0px 20px;
+  color: blue;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.background {
+  background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2019%2F01%2Fopentable-scenic-restaurants-marine-room-FT-BLOG0818.jpg");
+  height: 700px;
+  width: 1100px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top 0px left 100px;
+  border-right: 90px solid white;
+  border-left: 90px solid white;
+  border-top: 20px solid white;
+  border-bottom: 0px solid white;
+}
+
+.background_text {
+  position: absolute;
+  top: 380px;
+  left: 430px;
+  color: white;
+  font-size: 22px;
+}
+
+.reservation_button {
+  position: absolute;
+  border: 1px solid black;
+  top: 480px;
+  left: 800px;
+  color: black;
+  font-size: 16px;
+  padding: 8px 18px;
+}
